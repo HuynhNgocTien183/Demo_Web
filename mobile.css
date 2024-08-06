@@ -1,0 +1,42 @@
+*{
+    font-size: 14px;
+}
+
+.ads{
+    display: none;
+}
+
+header > div{
+    display: none;
+}
+
+ul.menu > li > a{
+    padding: 0.5rem;
+}
+
+header > img{
+    width: 60%;
+}
+
+.course{
+    width: 90%;
+}
+
+.forum{
+    display: block;
+}
+
+.forum > div{
+    width:  auto;
+    display: block;
+    flex-direction: column;
+}
+
+.forum > ul{
+    list-style-type: none;
+}
+
+
+.forum > ul >li, .forum > p {
+    text-align: center;
+}
